@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Freda Terry",
+    "phone": "232-451-8026",
+    "email": "Laney.Weimann@gmail.com",
+    "job": "Customer Web Executive"
+  },
+  {
+    "name": "Conrad Heller",
+    "phone": "388.414.3536 x958",
+    "email": "Anna13@gmail.com",
+    "job": "District Directives Orchestrator"
+  },
+  {
+    "name": "Bryan Schumm",
+    "phone": "1-946-471-1318 x73249",
+    "email": "Jaiden68@hotmail.com",
+    "job": "Forward Solutions Producer"
+  },
+  {
+    "name": "Tracy Deckow",
+    "phone": "(344) 404-6527 x017",
+    "email": "Rick.Klocko40@yahoo.com",
+    "job": "National Intranet Designer"
+  }
+]
